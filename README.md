@@ -40,14 +40,24 @@ RegisterNumber:24009351*/
 
 
 **RTL realization**
-![Screenshot (50)](https://github.com/user-attachments/assets/e3f56550-f1c4-4c38-8985-42e074d70bcc)
+code
+
+![Screenshot 2024-12-03 204122](https://github.com/user-attachments/assets/cc77e5fd-950b-4e18-9986-2365e18b9a1e)
+
+k-map
+![Screenshot 2024-12-03 200858](https://github.com/user-attachments/assets/f8d2b3ca-8029-4c5f-9368-c2e4de859be6)
+![Screenshot 2024-12-03 201935](https://github.com/user-attachments/assets/5313ff4d-bfd6-4b8f-bc50-e3dea9c3ba7c)
 
 **Output:**
-![Screenshot (49)](https://github.com/user-attachments/assets/695a7e72-d693-4e84-88e4-aaf3f06d07b3)
+
+![Screenshot 2024-12-03 204129](https://github.com/user-attachments/assets/ffbc4128-4021-4ba6-b286-0964dfba6ea6)
+
 
 **RTL**
 
 **Timing Diagram**
+![waveform exp 2](https://github.com/user-attachments/assets/422b3c73-5493-431d-b3b6-e7e310b8bdfe)
+![waveform  exp 2 (2)](https://github.com/user-attachments/assets/27ace2f6-17c0-4e5a-88f1-c48c01d6fbef)
 
 **Result:**
 
