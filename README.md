@@ -42,7 +42,14 @@ RegisterNumber:24009351*/
 **RTL realization**
 code
 
-![Screenshot 2024-12-03 204122](https://github.com/user-attachments/assets/cc77e5fd-950b-4e18-9986-2365e18b9a1e)
+    modulle logic_functions(
+    input A,B,C,D
+    input w,x,y,z
+    output F1,F2
+    );
+    assign F1= (~A & ~B & ~C & ~D) | (A & ~C & ~D) | (~B & C & ~D) | (~A & B & C & D) | (B & ~C & D);
+    assign F2= (X & ~Y & Z) | (~X & ~Y & Z) | (~W & X & Y) | (W & ~X & Y) | (W & X & Y);
+    endmodule
 
 k-map
 ![Screenshot 2024-12-03 200858](https://github.com/user-attachments/assets/f8d2b3ca-8029-4c5f-9368-c2e4de859be6)
